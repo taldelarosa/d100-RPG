@@ -1,6 +1,6 @@
 # Hit Point Discussion
         
-![Hit Point Box Diagram](.\HitpointBoxes.png)
+![Hit Point Box Diagram](https://github.com/LaPlate/d100-RPG/blob/master/Combat/HitpointBoxes.png)
         
 **Eric:** When you are uninjured, you have hit points that do not track to physical damage, or at least injurious damage. Bruises, nicks, etc.
 

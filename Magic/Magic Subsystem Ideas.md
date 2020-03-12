@@ -20,3 +20,11 @@ The caster runs into combat and performs actions with the intent of satisfying t
 **#4: Pact Debt Spellcasting**
 
 The caster can evoke any number of powerfull spells or abilities, but each time he does a debt is added to an accumulating total. At some point in the future, like after a long rest, the pact payment is due- this can be realized in physical damage, suppression of physical stats, or even death.
+
+**#5: Harmonic Combinatory Spellcasting**
+
+A combinatory take on Bardic music, the caster can select any number of musical sources and weave them together to make songs. The number of additions would be an increasing measure of bardic skill, as would the amount of time for which the music may continue to manifest magical power. Additionally, the Bard can end portions of the harmony to deliver one-time effects such as attacks or buffs to his allies.
+
+**#6: Punishment-Based Paladin Casting**
+
+The caster fights in melee as a front-line protector, and every time he is struck by attacks or spells he generates power, which he can spend for magical effects. Effects can also be influenced by the nature of the warriors spiritual culture; retribution or healing or leadership are all valid options.

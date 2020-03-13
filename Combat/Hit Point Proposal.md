@@ -31,7 +31,7 @@ Our system divides injury into three tiers, described here:
 
 * **Impaired**. At this point the character has actually received damage, and is likely operating in an emergency frame of mind. Adrenaline is pumping. The character might be experiencing Shock. Characters reduced to this state experience a loss of mental abilities- without proper training your mind shuts down, and you're capable only of panicked actions like running or attacking madly. At this point you must rely on muscle memory to save you; basic actions and maneuvers represent muscle memory and training serving you in this altered state. Attempting to do anything more complicated; tricking a foe through a clever feint, casting a spell, solving a puzzle; these can only be accomplished if you succeed at some kind of check modified by the amount of damage you have taken.
 
-* **Incapacitated**. At this stage your body fails. It isn't fun to lay on the ground a roll to bleed, so at the point you are still able to make very simple actions. Dragging yourself a short distance. Saying your last words. Throwing the lever that releases the trap. This region of your hit point boxes is where drama lives.
+* **Incapacitated**. At this stage your body fails. It isn't fun to lay on the ground and roll to bleed, so at the point you are still able to make very simple actions. Dragging yourself a short distance. Saying your last words. Throwing the lever that releases the trap. This region of your hit point boxes is where drama lives.
 
 Being driven beyond these states should result in tragedy.
 

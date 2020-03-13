@@ -1,5 +1,5 @@
-#Discounting through Combinations
-##The Easy way to play this game
+#Discounting through Combinations#
+##The Easy way to play this game##
 
 **Summary**
 ----

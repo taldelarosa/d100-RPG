@@ -27,14 +27,14 @@ The mechanic of weapon type and quality is reflected in the *type of die rolled*
 
 *Examples of damage dice by weapon:*
 
-'Damage Die  | Example'
+    Damage Die | Example
 
-' d20        | Unarmed punch, Falling Damage'
-' d12        | Knives, Daggers, improvised weapons'
-' d10        | Swords, Maces'
-' d8         | Two-Handed Swords, Mauls'
-' d6         | Greatswords, Greataxes, Potential Spell Damage'
-' d4         | Damage rolls for Critical Hits and Special Abilities'
+    d20        | Unarmed punch, Falling Damage
+    d12        | Knives, Daggers, improvised weapons
+    d10        | Swords, Maces
+    d8         | Two-Handed Swords, Mauls
+    d6         | Greatswords, Greataxes, Potential Spell Damage
+    d4         | Damage rolls for Critical Hits and Special Abilities'
 
 
 **Penetrating Armor**

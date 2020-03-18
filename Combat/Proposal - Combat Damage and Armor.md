@@ -19,7 +19,7 @@ When a character inflicts or receives damage, two major factors influence how mu
 
 The first is the physical strength and effectiveness of the attack. A very strong attacker will hit harder, and a skilled attacker will know how to attack with greater effectiveness. The gameplay result of this metric is *the number of dice rolled*. 
 
-The second is the design of the weapon itself. Skilled martial artists and hugely powerful tavern brawlers both have the potential to inflict major- if not lethal- damage, but there is a high degree of entropy involved. For every punch to the stomach that kills a Houdini there are thousands that mere leave a nasty bruise. However, there is a much greater likelihood of reliable damage from *weapons*, and that certainty grows with how heavy and well-designed that weapon is.
+The second is the design of the weapon itself. Skilled martial artists and hugely powerful tavern brawlers both have the potential to inflict major- if not lethal- damage, but there is a high degree of entropy involved. For every punch to the stomach that kills a Houdini there are thousands that merely leave a nasty bruise. However, there is a much greater likelihood of reliable damage from *weapons*, and that certainty grows with how heavy and well-designed that weapon is.
 
 It's important to note here, although we'll cover it in detail below, that heavier weapons have a greater chance of *penetrating armor*. A knife is lethal to an unarmored target. A greataxe is lethal to *everybody*.
 

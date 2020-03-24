@@ -42,6 +42,9 @@ This is the study of magic as it adheres to objects and locations. A knowledge o
 **Ranks**:
 
 *Familiar:* You know popular forms of enchantment, and can identify the nature of specific enchantments by spending time studying it.
+
 *Learned:* You know all forms of enchantment except those that are very secret, and can identify specific enchantments on objects by studying them.
+
 *Expert:* You can recognize most enchantments within moments of interacting with them, and you can use a simple Senses check to recognize a curse or compulsion on another creature. You know tidbits of secret schools of enchantment, and the societies behind them.
+
 *Sage:* You are an authority on enchantments, and can detect minute differences between them. With study you can identify the originator of an enchantment. You know the legends and histories of all the secret enchanting circles, including their founders and locations.

@@ -32,3 +32,16 @@ We propose that skills be separated out into two categories: **Skills** and **St
 This skill allows the proficient to craft arms and armor using forge and smelter techniques. When creating gear for use or sale, roll this skill to determine the quality of the work.
 
 **Studies**: Geology, Heraldry (Local), Enchantment
+
+----
+
+**Study: Enchantment**
+
+This is the study of magic as it adheres to objects and locations. A knowledge of enchantment is useful when discerning a curse over a town, or studying an ancient blade to discover what supernatural forces are working their will through it.
+
+**Ranks**:
+
+*Familiar:* You know popular forms of enchantment, and can identify the nature of specific enchantments by spending time studying it.
+*Learned:* You know all forms of enchantment except those that are very secret, and can identify specific enchantments on objects by studying them.
+*Expert:* You can recognize most enchantments within moments of interacting with them, and you can use a simple Senses check to recognize a curse or compulsion on another creature. You know tidbits of secret schools of enchantment, and the societies behind them.
+*Sage:* You are an authority on enchantments, and can detect minute differences between them. With study you can identify the originator of an enchantment. You know the legends and histories of all the secret enchanting circles, including their founders and locations.

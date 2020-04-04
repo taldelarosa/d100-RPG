@@ -18,3 +18,7 @@ That said, the challenge falls on us to make every archetype supernatural in fam
 ----
 
 In order to assist with power parity and customization of magical archetypes, spells should be compartmentalized actions, just like the footwork, feinting, tumbling and lunging in a fighting archetype's AP expenditure that leads up to a clever attack.
+
+## Elements and the Construction of Spells
+----
+![Elemental Spell Wheel](https://github.com/LaPlate/d100-RPG/blob/master/Magic/Elemental Network.png)

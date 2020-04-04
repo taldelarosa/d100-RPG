@@ -22,4 +22,4 @@ In order to assist with power parity and customization of magical archetypes, sp
 ## Elements and the Construction of Spells
 ----
 
-![Elemental Spell Wheel](https://github.com/LaPlate/d100-RPG/blob/master/Magic/Elemental Network.png)
+![Elemental Spell Wheel](https://github.com/LaPlate/d100-RPG/blob/master/Magic/Elemental%20Network.PNG)

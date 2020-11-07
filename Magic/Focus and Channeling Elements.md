@@ -1,4 +1,4 @@
-Focus and Channeling Elements
+# Focus and Channeling Elements
 ----
 
 This proposal outlines the process for constructing a spell.
@@ -27,11 +27,11 @@ It's never great.
 
 When a caster loses control of a spell, they must determine the effect of the failure by rolling on the appropriate table for the *type* of spell that failed. If a spell contains only one type of element, or contains more than one instance of an element, than it is considered to be of that element's type. Spells with more than one multiple-instance element are considered to be of both types.
 
-*Example: The spell "Ignite" requires only a single fire element to evoke. However, since it is Only made of fire elements, it's a Fire Spell.
+> Example: The spell "Ignite" requires only a single fire element to evoke. However, since it is Only made of fire elements, it's a Fire Spell.
 
-Example: The spell "Commune" requires one of every type of element. However, since there is only one of each element, it is typeless.
+> Example: The spell "Commune" requires one of every type of element. However, since there is only one of each element, it is typeless.
 
-Example: The spell "Scalding Cloud" requires one air, two water and two fire. Because water and fire both have more than one element in the formula, this spell is both a Fire Spell and a Water Spell.*
+> Example: The spell "Scalding Cloud" requires one air, two water and two fire. Because water and fire both have more than one element in the formula, this spell is both a Fire Spell and a Water Spell.
 
 When you lose control of a spell that is more than one type, the failure table you roll on should be determined randomly from the valid choices. In the "Scalding Cloud" example above, you could flip a coin, as there are two valid types to choose from.
 

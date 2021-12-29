@@ -19,6 +19,8 @@ Our system, we believe, is the best of both worlds. We propose Levels, purchased
 
 *Addressing the problem of bottlenecking characters:* Both levels and expensive CP-cost abilities force you to optimize to a playstyle, and to an extent, that's unavoidable; everything has an opportunity cost and you deserve to be rewarded for your dilligence in pursuing excellence in a field. Smaller, diverse levels that offer generic bonuses: +1 to strength here, +1 to Focus with Fire spells there- these allow you to arrive at your late-game character through any number of alternative paths. Sure, there might be a mathematically 'Best' way to reach a power you want as quickly as possible, but there will likely be options along the way, and because growth is so gradual it might just be worth it to take the slightly longer road if it gets you other powers and abilties that you might appreciate.
 
+*Addressing the problem of creating a bad build:* Not everyone can be an amazing mathematician/genius, and sometimes you realize that you should have listened more about statistics in school only after sinking many sessions into your boring or ineffective character. Hell, many of us in our real lives will change occupations and hobbies as the years go on, and inevitably some of our skills wane as we focusing on sharpening others. To model this slow growth, Players may recoup an amount of spent character points equal to their current amount of unspent character points each time they are awarded.
+
 **Examples of miniaturized classes:**
 
 ![Example Basic Class](https://github.com/LaPlate/d100-RPG/blob/master/Advancement/Images/Guardsman-Example.PNG)

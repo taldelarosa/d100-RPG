@@ -1,4 +1,4 @@
-# Hit Point Proposal #
+# Hit Points #
 
 **Overview**
 ----
